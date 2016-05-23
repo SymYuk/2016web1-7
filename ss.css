@@ -42,10 +42,12 @@ header
 aside
 {
 	background-color:lavender;
+	width:256px;
 	float:right;
 }
 
 footer
 {
 	background-color:lightyellow;
+	clear:both;
 }
