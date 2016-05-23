@@ -32,6 +32,12 @@ header
 	background-color:palegreen;
 }
 
+.box
+{
+	width:256px;
+	float:left;
+}
+
 aside
 {
 	background-color:lavender;
