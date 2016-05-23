@@ -1,11 +1,26 @@
 @charset "UTF-8"
 
-body{
-	color:red;
-	margin:0 auto;
+body
+{
+	color:gray;
 }
 
-.header{
-	color:skyblue;
-	margin:0 auto;
+header
+{
+	background-color:mistyrose;
+}
+
+.span1
+{
+	background-color:lightcyan;
+}
+
+.span2
+{
+	background-color:palegreen;
+}
+
+footer
+{
+	background-color:lightyellow;
 }
