@@ -25,9 +25,8 @@ header
 .main
 {
 	width:calc(100%-256px);
-	min-width:512px;
+	min-width:765px;
 	float:left;
-	background-color:black;
 }
 
 .div1
@@ -49,9 +48,6 @@ header
 
 aside
 {
-	position:fixed;
-	top:64px;
-	right:0;
 	background-color:lavender;
 	width:200px;
 	height:100%;
