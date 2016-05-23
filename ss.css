@@ -11,7 +11,7 @@ header
 	background-color:mistyrose;
 }
 
-#div1
+.div1
 {
 	background-color:lightcyan;
 }
@@ -21,15 +21,6 @@ header
 	background-color:palegreen;
 }
 
-#span1
-{
-	background-color:cyan;
-}
-
-.span2
-{
-	background-color:green;
-}
 
 footer
 {
