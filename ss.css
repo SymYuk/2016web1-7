@@ -1,13 +1,13 @@
 @charset "UTF-8"
 
-.header
+body
 {
 	color:red;
 	margin:0 auto;
 }
 
-p
+.header
 {
-	color:red;
+	color:blue;
 	margin:0 auto;
 }
