@@ -22,6 +22,12 @@ header
 	text-align:center;
 }
 
+.main
+{
+	width:calc(100%-256px);
+	min-width:512px;
+}
+
 .div1
 {
 	background-color:lightcyan;
@@ -43,7 +49,8 @@ aside
 {
 	background-color:lavender;
 	width:256px;
-	height:calc(100%-512px);
+	height:512px;
+	min-height:256px;
 	float:right;
 }
 
