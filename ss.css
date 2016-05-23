@@ -26,6 +26,7 @@ header
 {
 	width:calc(100%-256px);
 	min-width:512px;
+	float:left;
 }
 
 .div1
