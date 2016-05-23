@@ -35,7 +35,6 @@ header
 .box
 {
 	width:256px;
-	height:512px;
 	float:left;
 	margin:10px;
 }
@@ -44,6 +43,7 @@ aside
 {
 	background-color:lavender;
 	width:256px;
+	height:calc(100%-512px);
 	float:right;
 }
 
