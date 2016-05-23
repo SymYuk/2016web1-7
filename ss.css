@@ -52,10 +52,10 @@ aside
 	right:0;
 	background-color:lavender;
 	width:256px;
-	height:512px;
-	min-height:256px;
+	height:100%;
 	float:right;
-	margin:0 auto;
+	text-align:center;
+	overflow:auto;
 }
 
 footer
