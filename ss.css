@@ -53,7 +53,7 @@ aside
 	right:0;
 	background-color:lavender;
 	width:200px;
-	height:100%;
+	height:calc(100%-64px);
 	float:right;
 	text-align:center;
 	overflow:auto;
